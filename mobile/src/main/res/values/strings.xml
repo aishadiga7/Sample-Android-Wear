@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleWear</string>
+    <string name="please_check_internet_connection">Please check internet connection</string>
+    <string name="location_cannot_be_fetched">Location cannot be fetched</string>
+    <string name="permission_granted">Permission granted</string>
+    <string name="permission_not_granted">Permission not granted</string>
+</resources>
